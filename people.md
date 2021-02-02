@@ -15,6 +15,11 @@
 1. 
 
 2. 
+## Mario Muscarella 
+Assistant Professor
+
+email: memuscarella@alaska.edu
+
 
 3. 
 
