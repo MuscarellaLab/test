@@ -2,8 +2,7 @@
 ---
 
 <Template>
-### Name ###
-
+## Name 
 *Position Title*
 
 + email:
