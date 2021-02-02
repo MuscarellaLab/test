@@ -33,7 +33,8 @@ email: memuscarella@alaska.edu
 
 8. 
 
-9. 
+9. Kodi Haughn
+email: khaughn@alaska.edu
 
 10. 
 
