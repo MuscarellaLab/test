@@ -1,8 +1,9 @@
 # EMME Participants
--
+---
 
 <Template>
-### _Name_
+### Name ###
+
 *Position Title*
 
 + email:
