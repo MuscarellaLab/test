@@ -21,7 +21,8 @@ Assistant Professor
 email: memuscarella@alaska.edu
 
 
-3. 
+3.
+**Tracie** 
 
 4. 
 
