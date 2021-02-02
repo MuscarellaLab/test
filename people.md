@@ -24,7 +24,7 @@ email: memuscarella@alaska.edu
 3.
 **Tracie** 
 
-4. 
+4. Taylor 
 
 5. ##Ariane Peralta 
 
