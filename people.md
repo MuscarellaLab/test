@@ -21,17 +21,19 @@ Assistant Professor
 email: memuscarella@alaska.edu
 
 
-3. 
+3.
+**Tracie** 
 
-4. 
+4. Taylor 
 
-5. 
+5. ##Ariane Peralta 
 
 6. 
 
 7. 
 
-8. 
+8. Grant Wright
+Hello World, interests include toxicology, emerging contaminants, environmental policy, etc.
 
 9. 
 
@@ -39,7 +41,7 @@ email: memuscarella@alaska.edu
 
 11. 
 
-12. 
+12. Jasper
 
 13. 
 
