@@ -35,8 +35,9 @@ email: memuscarella@alaska.edu
 8. Grant Wright
 Hello World, interests include toxicology, emerging contaminants, environmental policy, etc.
 
-9. Kodi Haughn
+9. ## Kodi Haughn
 email: khaughn@alaska.edu
+Biology Grad student UAF
 
 10. 
 
