@@ -24,3 +24,10 @@ Assistant Professor
 + about me: 
 
 
+
+## Michelle Ramirez
+
+*Undergraduate Student*
+
++ email: mrramirez2@alaska.edu
++ about me: 
