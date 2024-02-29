@@ -1,4 +1,4 @@
-# EMME Participants
+# Muscarella Lab Participants
 ---
 change
 <Template>
@@ -18,55 +18,27 @@ change
 ## Mario Muscarella 
 Assistant Professor
 
-email: memuscarella@alaska.edu
-website: MuscarellaLab@github.io
++ email: [memuscarella@alaska.edu](mailto:memuscarella@alaska.edu?subject=Interested%20in%20your%20research)
++ website: MuscarellaLab.GitHub.io
+
++ about me: 
+
+## Maura Grahek
+Undergraduate Lab Assistant
+
+email: mcgrahek@alaska.edu
 
 
-3.
-**Tracie** 
-
-4. Taylor 
-
-5. ##Ariane Peralta 
-
-6. 
-
-7. 
-
-8. Grant Wright
-Hello World, interests include toxicology, emerging contaminants, environmental policy, etc.
-
-9. ## Kodi Haughn
-email: khaughn@alaska.edu
-Biology Grad student UAF
-
-10. 
-
-11. 
-
-12. Jasper
-
-13. 
-
-14. 
-
-15. Alexis Walker 
-
-16. 
-
-17. 
-
-18. 
-
-19. 
-
-20. ## Bahareh Sorouri 
+## Bahareh Sorouri 
 NSF PRFB Postdoctoral Research Fellow
 
 email: bsorouri@alaska.edu
 
 
 
+## Michelle Ramirez
 
+*Undergraduate Student*
 
-
++ email: mrramirez2@alaska.edu
++ about me: 
