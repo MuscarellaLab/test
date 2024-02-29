@@ -23,6 +23,12 @@ Assistant Professor
 
 + about me: 
 
+## Maura Grahek
+Undergraduate Lab Assistant
+
+email: mcgrahek@alaska.edu
+
+
 
 
 ## Michelle Ramirez
