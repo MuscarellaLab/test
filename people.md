@@ -22,3 +22,10 @@ email: memuscarella@alaska.edu
 website: MuscarellaLab@github.io
 
 
+
+## Michelle Ramirez
+
+*Undergraduate Student*
+
++ email: mrramirez2@alaska.edu
++ about me: 
