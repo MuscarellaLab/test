@@ -21,4 +21,10 @@ Assistant Professor
 email: memuscarella@alaska.edu
 website: MuscarellaLab@github.io
 
+## Maura Grahek
+Undergraduate Lab Assistant
+
+email: mcgrahek@alaska.edu
+
+
 
