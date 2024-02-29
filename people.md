@@ -29,6 +29,11 @@ Undergraduate Lab Assistant
 email: mcgrahek@alaska.edu
 
 
+## Bahareh Sorouri 
+NSF PRFB Postdoctoral Research Fellow
+
+email: bsorouri@alaska.edu
+
 
 
 ## Michelle Ramirez
