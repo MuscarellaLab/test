@@ -26,7 +26,11 @@ Assistant Professor
 
 
 ## Morgan Brown
+Student
 
++ email: mbrown133@alaska.edu
+
++ about me: Student by day, Gnarlie by night
 
 ## Paige Paulsen
 
