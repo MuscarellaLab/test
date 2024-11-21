@@ -1,8 +1,7 @@
 # Muscarella Lab Participants
 ---
-change
-<Template>
 
+# Template
 ## Name 
 
 *Position Title*
@@ -12,9 +11,6 @@ change
 
 <replace your number with your info given the template>
 
-1. 
-
-2. 
 ## Mario Muscarella 
 Assistant Professor
 
@@ -23,22 +19,16 @@ Assistant Professor
 
 + about me: 
 
-## Maura Grahek
-Undergraduate Lab Assistant
-
-email: mcgrahek@alaska.edu
-
-
 ## Bahareh Sorouri 
-NSF PRFB Postdoctoral Research Fellow
-
-email: bsorouri@alaska.edu
 
 
+## Amanda Stromecki 
 
-## Michelle Ramirez
 
-*Undergraduate Student*
+## Morgan Brown
 
-+ email: mrramirez2@alaska.edu
-+ about me: 
+
+## Paige Paulsen
+
+
+
