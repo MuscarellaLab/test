@@ -17,7 +17,7 @@ Assistant Professor
 + email: [memuscarella@alaska.edu](mailto:memuscarella@alaska.edu?subject=Interested%20in%20your%20research)
 + website: MuscarellaLab.GitHub.io
 
-+ about me: 
++ about me: This is me
 
 ## Bahareh Sorouri 
 
