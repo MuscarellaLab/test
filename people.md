@@ -29,6 +29,8 @@ Assistant Professor
 
 
 ## Paige Paulsen
++ email: [mppaulsen2@alaska.edu]
 
++ about me: 
 
 
