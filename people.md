@@ -20,7 +20,8 @@ Assistant Professor
 + about me: 
 
 ## Bahareh Sorouri 
-
+email: bsorouri@alaska.edu
+website: baharehsorouri.com
 
 ## Amanda Stromecki 
 
