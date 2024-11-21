@@ -33,6 +33,8 @@ Student
 + about me: Student by day, Gnarlie by night
 
 ## Paige Paulsen
++ email: [mppaulsen2@alaska.edu]
 
++ about me: 
 
 
