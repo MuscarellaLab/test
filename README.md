@@ -15,5 +15,5 @@ Push to your origin and submit a pull request
 
 ## Contributors
 
-[Dr. Mario Muscarella](https://muscarellalab.github.io/people/):Principle Investigator, Assistant Professor, Institute of Arctic Biology, University of Alaska Fairbanks. Head of the [Muscarella Lab](https://muscarellalab.github.io/).
+[Dr. Mario Muscarella](https://muscarellalab.github.io/people/): Principle Investigator, Assistant Professor, Institute of Arctic Biology, University of Alaska Fairbanks. Head of the [Muscarella Lab](https://muscarellalab.github.io/).
 
