@@ -31,7 +31,11 @@
 
 
 ## Olivia Hajek
+**Postdoctoral Researcher**
 
++ Email: [olhajek@alaska.edu](mailto:olhajek@alaska.edu?subject=Interested%20in%20your%20research)
++ Website: [Google Scholar](https://scholar.google.com/citations?user=C67-0E0AAAAJ&hl=en)
++ About Me: Olivia Hajek is an ecosystem ecologist, and her research research focuses on understanding how changes in climate and climate extremes affect ecosystem structure and functioning.
 
 ## Kodi Haughn
 
