@@ -47,10 +47,3 @@
 
 ## Lorenzo Tonin
 
-
-
-
-
-+ about me: 
-
-
