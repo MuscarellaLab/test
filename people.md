@@ -24,8 +24,9 @@
 ## Claire Bachand
 **PhD Student**
 
-Email: clbachand@alaska.edu
-About Me: Claire Bachand is a second year Earth System Science PhD student at the University of Alaska Fairbanks advised by Dr. Eugenie Euskirchen. Her research focuses on understanding drivers of wintertime respiration in the Arctic and incorporating these processes into Earth System Models. She is working closely with graduate student Morgan Brown on their Tundra Award project: "Linking microbial respiration to macro-scale carbon dynamics". 
++ Email: clbachand@alaska.edu
++ Website: https://scholar.google.com/citations?user=Ih__LOcAAAAJ&hl=en
++ About Me: Claire Bachand is a second year Earth System Science PhD student at the University of Alaska Fairbanks advised by Dr. Eugenie Euskirchen. Her research focuses on understanding drivers of wintertime respiration in the Arctic and incorporating these processes into Earth System Models. She is working closely with graduate student Morgan Brown on their Tundra Award project: "Linking microbial respiration to macro-scale carbon dynamics". 
 
 ## Morgan Brown
 
