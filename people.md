@@ -25,7 +25,9 @@
 
 
 ## Morgan Brown
-
+**Graduate Student** 
++ Email: [mbrown133@alaska.edu]
++ About Me: By day, I study microbial ecology. By night, I can be found on roller skates! 
 
 ## Sydney Gargulak
 
