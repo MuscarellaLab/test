@@ -47,8 +47,8 @@
 
 
 ## Bahareh Sorouri 
-email: bsorouri@alaska.edu
-website: baharehsorouri.com
++ Email: bsorouri@alaska.edu
++ Website: baharehsorouri.com
 
 ## Amanda Stromecki 
 
